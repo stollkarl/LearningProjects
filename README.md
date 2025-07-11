@@ -1,22 +1,23 @@
 # Learning
-This is the repo where I'll be publishing all of my projects while learning programming. Since I've dabbled in programming quite a few times but never really put the effort in to learn a language I'm going to try my best to make this time different. 
+This is the repo where I'll be publishing all of my projects while learning programming. Since I've dabbled in programming quite a few times, but never really put the effort in to learn a language, I'm going to try my best to make this time different. 
+
 
 ## Projects
 Below is a list of all my projects and their status:
 
-### Rock Paper Scissors
+#### Rock Paper Scissors
 Ongoing
 
-### Banking System
+#### Banking System-
 Not started
 
-### Login and Registration
+#### Login and Registration
 Not started
 
-### Grading Program
+#### Grading Program
 Not started
 
-### Cola Machine
+#### Cola Machine
 Not started
 
 
