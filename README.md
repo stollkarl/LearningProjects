@@ -33,5 +33,5 @@ Not started
 
 
 <p align="center">
-  ![keeponkeepingon](https://github.com/user-attachments/assets/944e04ea-16d9-440b-ba48-8e061245ebda)
+  <img src="https://github.com/user-attachments/assets/944e04ea-16d9-440b-ba48-8e061245ebda">
 </p>
