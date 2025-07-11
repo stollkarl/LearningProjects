@@ -32,5 +32,6 @@ Not started
 
 
 
-
-![keeponkeepingon](https://github.com/user-attachments/assets/d377dadd-9c72-407c-b629-6ad59154ca68)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/user-attachments/assets/d377dadd-9c72-407c-b629-6ad59154ca68)">
+</p>
