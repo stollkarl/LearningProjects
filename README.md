@@ -21,9 +21,9 @@ Not started
 
 
 ## Sources for projects
-(GeeksForGeeks)[https://www.geeksforgeeks.org/cpp/top-50-cpp-project-ideas-for-beginners-advanced/]
+[GeeksForGeeks](https://www.geeksforgeeks.org/cpp/top-50-cpp-project-ideas-for-beginners-advanced/)
 
-(C++ Forums)[https://cplusplus.com/forum/articles/12974/]
+[C++ Forums](https://cplusplus.com/forum/articles/12974/)
 
 
 
