@@ -5,26 +5,8 @@ This is the repo where I'll be publishing all of my projects while learning prog
 ## Projects
 Below is a list of all my projects and their status:
 
-#### Rock Paper Scissors
+#### To-Do List
 Ongoing
-
-#### Banking System-
-Not started
-
-#### Login and Registration
-Not started
-
-#### Grading Program
-Not started
-
-#### Cola Machine
-Not started
-
-
-## Sources for projects
-[GeeksForGeeks](https://www.geeksforgeeks.org/cpp/top-50-cpp-project-ideas-for-beginners-advanced/)
-
-[C++ Forums](https://cplusplus.com/forum/articles/12974/)
 
 
 
